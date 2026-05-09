@@ -29,7 +29,7 @@ public class Practice2_Galope {
     public void launchApp() {
         f.setLayout(new GridLayout(4, 1));
         f.setBackground(Color.GRAY);
-        f.setSize(300,100); 
+        f.setSize(500,200); 
         f.add(b1);
         f.add(b2);
         f.add(b3);
