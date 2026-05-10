@@ -42,7 +42,6 @@ public class Galope_Module9 {
         f.setLocation(500, 200);
     }
 
-    
     public static void main(String[] args) {
         Galope_Module9 g = new Galope_Module9();
         g.launchApp();

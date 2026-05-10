@@ -70,9 +70,6 @@ public class Galope_Module10 {
                 f.setBackground(c);
             }
         }
-
-    
-        
     }
     public static void main(String[] args) {
         Galope_Module10 g = new Galope_Module10();
