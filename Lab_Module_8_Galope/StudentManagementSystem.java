@@ -26,6 +26,7 @@ public class StudentManagementSystem {
             return;
         }
 
+
         // 2. Authentication
         System.out.print("Enter Username: ");
         String username = sc.nextLine().trim();

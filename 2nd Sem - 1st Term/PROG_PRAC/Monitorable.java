@@ -1,3 +1,0 @@
-interface Monitorable {
-    String reportVitals();
-}
